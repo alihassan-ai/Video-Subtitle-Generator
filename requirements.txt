@@ -1,0 +1,8 @@
+whisper
+ffmpeg-python
+gradio
+moviepy
+numpy
+openai
+python-dotenv
+fonttools
